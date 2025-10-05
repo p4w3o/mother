@@ -2,7 +2,7 @@
 
 English version of the README.
 
-Pour la version française, voir [README.fr.md](README.fr.md)
+Pour la version Française, voir [README.fr.md](README.fr.md)
 
 ![Architecture Diagram](diagram.png)
 
