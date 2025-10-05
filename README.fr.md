@@ -1,12 +1,12 @@
----
+# Mother Project
 
-# Français
+Version Française du README.
+
+For the English version, see [README.fr.md](README.fr.md)
 
 ![Diagramme Architecture](diagram.png)
 
 ---
-
-## Mother Project
 
 **Mother Project** est une suite macOS permettant l’exécution et la gestion de scripts locaux dans Roblox via un écosystème client-serveur. Le projet combine une interface utilisateur, des agents isolés et des scripts Lua pour interagir avec des instances de jeu.
 
